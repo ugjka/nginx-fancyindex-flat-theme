@@ -23,7 +23,8 @@ all: build/theme.css         \
      build/js/list.js        \
      build/js/breadcrumbs.js \
      build/header.html       \
-     build/footer.html
+     build/footer.html		 \
+	 build/background.png
 
 # Generate the build directory if it doesn't exist yet.
 build:
